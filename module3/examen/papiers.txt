@@ -1,0 +1,34 @@
+Field-aware Factorization Machines in a Real-world Online Advertising System
+https://arxiv.org/pdf/1701.04099.pdf
+
+DISTRIBUTED KERNEL K-MEANS FOR LARGE SCALE CLUSTERING
+https://arxiv.org/ftp/arxiv/papers/1710/1710.03013.pdf
+
+Training Big Random Forests with Little Resources
+https://arxiv.org/pdf/1802.06394.pdf
+
+Efficient Large Scale Clustering based on Data Partitioning
+https://arxiv.org/pdf/1704.03421.pdf
+
+Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems
+
+https://arxiv.org/pdf/1909.02107.pdf
+
+Large-scale L-BFGS using MapReduce
+https://papers.nips.cc/paper/2014/file/e49b8b4053df9505e1f48c3a701c0682-Paper.pdf
+
+Network–Efficient Distributed Word2vec Training System for Large Vocabularies
+https://arxiv.org/pdf/1606.08495.pdf
+
+BPPSA: SCALING BACK-PROPAGATION BY PARALLEL SCAN ALGORITHM
+https://arxiv.org/pdf/1907.10134.pdf
+
+DiFacto — Distributed Factorization Machines
+https://www.cs.cmu.edu/~muli/file/difacto.pdf
+
+HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent
+https://papers.nips.cc/paper/2011/file/218a0aefd1d1a4be65601cc6ddc1520e-Paper.pdf
+
+Bag of Tricks for Efficient Text Classification
+https://research.fb.com/wp-content/uploads/2016/07/eacl2017.pdf
+
