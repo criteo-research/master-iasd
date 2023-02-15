@@ -1,4 +1,4 @@
-# Systèmes, paradigmes et langages pour les Big Data
+#  Systems, paradigms, and algorithms for Big Data
 
 TD1-2 notebooks are working on [Google Colab](https://colab.research.google.com/).  
 Installing everything on Google Colab makes it easier to understand what you need to use PySpark.  
